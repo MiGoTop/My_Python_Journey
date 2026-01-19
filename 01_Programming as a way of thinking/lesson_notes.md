@@ -1,4 +1,4 @@
-# Chapter 1: Programming as a way of thinking
+# Chapter 12: Programming as a way of thinking
 
 ## 1. Variables and Types 
 "variable" is a name that stores a value.
