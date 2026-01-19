@@ -1,3 +1,5 @@
+# Chapter 1: 01_Programming as a way of thinking
+
 ## 1. Variables and Types 
 "variable" is a name that stores a value.
 In Python we have different data types:
